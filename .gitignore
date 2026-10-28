@@ -1,0 +1,9 @@
+# Source data and working files
+*.csv
+*.xlsx
+*.xls
+*.pbix
+
+# Local rendering and export intermediates
+/tmp/
+/output/
